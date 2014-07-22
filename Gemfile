@@ -30,6 +30,9 @@ gem 'rspec-rails'
 gem 'selenium-webdriver',  group: :test
 gem 'capybara'
 
+gem 'bootstrap-sass', '2.3.2.0'
+gem 'sprockets', '2.11.0'
+
 
 
 # Use ActiveModel has_secure_password
